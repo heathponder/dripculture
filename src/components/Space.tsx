@@ -18,10 +18,10 @@ export default function Space() {
       <div className="max-w-6xl mx-auto px-6">
         <ScrollReveal>
           <div className="text-center mb-16">
-            <span className="text-accent text-[11px] font-semibold tracking-[0.2em] uppercase">The Space</span>
+            <span className="text-accent text-sm font-semibold tracking-[0.2em] uppercase">The Space</span>
             <TextScramble
               text="MORE THAN A COFFEE SHOP."
-              className="font-heading text-6xl md:text-8xl text-ink leading-[0.85] mt-3 mb-4"
+              className="font-heading text-5xl md:text-7xl text-ink leading-[0.85] mt-3 mb-4"
             />
           </div>
         </ScrollReveal>
