@@ -15,11 +15,11 @@ export default function Story() {
           {/* Text */}
           <div>
             <ScrollReveal>
-              <span className="text-accent text-sm font-semibold tracking-[0.2em] uppercase">Our Story</span>
+              <span className="text-accent text-lg font-semibold tracking-[0.2em] uppercase">Our Story</span>
               <hr className="editorial-rule w-12 mt-3 mb-6" />
               <TextScramble
                 text="WE DON'T DO MEDIOCRE."
-                className="font-heading text-4xl md:text-6xl text-ink leading-[0.9] mb-8"
+                className="font-heading text-3xl md:text-5xl text-ink leading-[0.9] mb-8"
               />
             </ScrollReveal>
 

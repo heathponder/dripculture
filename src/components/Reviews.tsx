@@ -44,10 +44,10 @@ export default function Reviews() {
       <div className="max-w-6xl mx-auto px-6">
         <ScrollReveal>
           <div className="text-center mb-16">
-            <span className="text-accent text-sm font-semibold tracking-[0.2em] uppercase">Reviews</span>
+            <span className="text-accent text-lg font-semibold tracking-[0.2em] uppercase">Reviews</span>
             <TextScramble
               text="WORD ON THE STREET."
-              className="font-heading text-5xl md:text-7xl text-ink leading-[0.85] mt-3 mb-4"
+              className="font-heading text-3xl md:text-5xl text-ink leading-[0.85] mt-3 mb-4"
             />
             <div className="flex items-center justify-center gap-2 text-ink-muted text-sm">
               <Stars count={5} />

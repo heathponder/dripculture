@@ -67,10 +67,10 @@ export default function Menu() {
       <div className="max-w-6xl mx-auto px-6">
         <ScrollReveal>
           <div className="text-center mb-16">
-            <span className="text-accent text-sm font-semibold tracking-[0.2em] uppercase">The Menu</span>
+            <span className="text-accent text-lg font-semibold tracking-[0.2em] uppercase">The Menu</span>
             <TextScramble
               text="WHAT WE POUR."
-              className="font-heading text-5xl md:text-7xl text-ink leading-[0.85] mt-3 mb-4"
+              className="font-heading text-3xl md:text-5xl text-ink leading-[0.85] mt-3 mb-4"
             />
             <p className="text-ink-muted text-sm max-w-sm mx-auto">
               Every drink made to order. Oat, almond, and coconut milk available.
